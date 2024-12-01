@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(https://as2.ftcdn.net/v2/jpg/08/30/00/01/1000_F_830000159_d5ULpxbqPYTqEDypGogQNEOI5iYqLytR.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
